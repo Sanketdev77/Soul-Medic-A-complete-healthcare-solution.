@@ -1,4 +1,4 @@
-# Soul-Medic---A-complete-healthcare-solution
+# Soul-Medic : A complete healthcare solution.
 Domain – Health Care,
 Team Size - 5 members
 
