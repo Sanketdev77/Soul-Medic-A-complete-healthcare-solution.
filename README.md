@@ -1,5 +1,5 @@
 # Soul-Medic---A-complete-healthcare-solution
-Domain – Health Care
+Domain – Health Care,
 Team Size - 5 members
 
 TECHNOLOGY STACK :-
