@@ -34,5 +34,7 @@ Below are few glimpses of our application.
 <img width="1358" height="642" alt="Screenshot (1078)" src="https://github.com/user-attachments/assets/beaa57ff-ac2b-416d-9fda-91478caff1c6" />
 <img width="1348" height="638" alt="Screenshot (1080)" src="https://github.com/user-attachments/assets/f32aad1a-c76a-44f9-bb63-524d8f67ff91" />
 <img width="1348" height="638" alt="Screenshot (1079)" src="https://github.com/user-attachments/assets/c9cfd8e4-76fc-454d-9fcc-de36b42c06d4" />
+<img width="1333" height="628" alt="image" src="https://github.com/user-attachments/assets/8bb593c7-c54b-40a0-987a-27a707f54d79" />
+
 
 
