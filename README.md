@@ -27,3 +27,6 @@ detail and effective teamwork, we successfully created a robust healthcare solut
 embodies the future of patient-centered care.
 
 Below are few glimpses of our application.
+<img width="1366" height="649" alt="image" src="https://github.com/user-attachments/assets/db02f2ae-e30f-48be-89e8-69202b0445df" />
+<img width="1366" height="641" alt="Screenshot (1074)" src="https://github.com/user-attachments/assets/953939e5-0e6e-483f-8611-2eec6b0f217e" />
+
