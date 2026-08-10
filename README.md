@@ -29,4 +29,9 @@ embodies the future of patient-centered care.
 Below are few glimpses of our application.
 <img width="1366" height="649" alt="image" src="https://github.com/user-attachments/assets/db02f2ae-e30f-48be-89e8-69202b0445df" />
 <img width="1366" height="641" alt="Screenshot (1074)" src="https://github.com/user-attachments/assets/953939e5-0e6e-483f-8611-2eec6b0f217e" />
+<img width="1366" height="648" alt="Screenshot (1075)" src="https://github.com/user-attachments/assets/514ef15b-31c6-4bc9-9fa0-66f3a9db7c84" />
+<img width="1358" height="642" alt="Screenshot (1078)" src="https://github.com/user-attachments/assets/beaa57ff-ac2b-416d-9fda-91478caff1c6" />
+<img width="1348" height="638" alt="Screenshot (1080)" src="https://github.com/user-attachments/assets/f32aad1a-c76a-44f9-bb63-524d8f67ff91" />
+<img width="1348" height="638" alt="Screenshot (1079)" src="https://github.com/user-attachments/assets/c9cfd8e4-76fc-454d-9fcc-de36b42c06d4" />
+
 
